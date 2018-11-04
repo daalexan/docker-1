@@ -1,0 +1,1 @@
+print("Ooo its work")
